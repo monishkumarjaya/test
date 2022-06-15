@@ -1,0 +1,30 @@
+{
+   "firstName": "Joe",
+   "lastName": "Jackson",
+   "gender": "male",
+   "age": 28,
+    "skills": ["html","css","java"],
+   "address": {
+       "streetAddress": "101",
+       "city": "San Diego",
+       "state": "CA"
+   },
+   "phoneNumbers": [
+       { "type": "home", "number": "7349282382" }
+   ]
+},
+{
+   "firstName": "Jack",
+   "lastName": "Willan",
+   "gender": "male",
+   "age": 38,
+    "skills": ["Python","SQL","java"],
+   "address": {
+       "streetAddress": "11",
+       "city": "San Fransico",
+       "state": "CA"
+   },
+   "phoneNumbers": [
+       { "type": "home", "number": "9349282382" }
+   ]
+}
